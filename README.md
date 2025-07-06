@@ -48,5 +48,5 @@ Based on the analysis:
 - Provide reminders or insights to motivate daily activity.
 - Market features like intensity tracking to high-engagement users.
 
-## 📂 Project Structure
+
 
