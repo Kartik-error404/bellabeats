@@ -2,7 +2,7 @@
 
 This project analyzes smart device usage data from Bellabeat’s Fitbit dataset to gain insights into users' daily habits and health trends. The goal is to provide high-level recommendations to help guide Bellabeat’s marketing strategy.
 
-## 📁 Dataset
+##  Dataset
 
 The data used in this analysis is from the **Fitabase Dataset** made publicly available by Bellabeat:
 - Date Range: `03/12/2016` to `04/11/2016`
@@ -16,7 +16,7 @@ The data used in this analysis is from the **Fitabase Dataset** made publicly av
 - `weightLogInfo_merged.csv`
 - ... and others
 
-## 📊 Objective
+##  Objective
 
 Analyze usage patterns such as:
 - Daily activity trends (steps, calories)
@@ -24,7 +24,7 @@ Analyze usage patterns such as:
 - Heart rate and intensity levels
 - User engagement with smart fitness tracking
 
-## 🛠️ Tools & Technologies
+##  Tools 
 
 - Python / R (depending on analysis)
 - pandas / ggplot2 / seaborn
@@ -32,16 +32,14 @@ Analyze usage patterns such as:
 - VS Code / Google Colab
 - GitHub for version control
 
-## 📈 Results
+##  Results
 
 Key insights discovered:
 - Users with higher activity levels tend to sleep more consistently.
 - Calorie burn correlates well with step count and logged intensities.
 - Very few users regularly log their weight or sleep data.
 
-(You can expand this section with charts or bullet summaries from your final notebook.)
-
-## 🧠 Recommendations
+## Recommendations
 
 Based on the analysis:
 - Encourage users to log weight and sleep for better tracking.
